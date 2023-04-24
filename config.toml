@@ -1,4 +1,4 @@
-baseURL = 'http://35.226.11.219/'
+baseURL = 'localhost'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
