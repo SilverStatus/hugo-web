@@ -1,4 +1,4 @@
-baseURL = 'localhost'
+baseURL = 'https://silverstatus.github.io/hugo-web/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
